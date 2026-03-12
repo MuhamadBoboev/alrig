@@ -15,8 +15,8 @@ export const Header = () => {
             <div className={classes.body}>
                 <div className={classes.header}>
                     <a href="/" className={classes.bl_logo}>
-                        <Logo width={120} height={40} />
-                        {/* <img src="./assets/icons/barf-horizontak.svg" className={classes.logo} width={100} height={50} /> */}
+                        {/* <Logo width={120} height={40} /> */}
+                        <img src="./assets/icons/alrig_logoo.png" className={classes.logo} width={200} height={100} />
                     </a>
                     <div className={classes.nav}>
                         <ul className={classes.items}>
