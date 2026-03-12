@@ -18,7 +18,7 @@ export const MainPage = () => {
         {/* <ServicesSection /> */}
         {/* <AboutInfo /> */}
         <Wrapper>
-            <Title title='Столы'  />
+            <Title title='Микроволновые печи'  />
             <ProductItems />
         </Wrapper>
         {/* <KraftBox /> */}

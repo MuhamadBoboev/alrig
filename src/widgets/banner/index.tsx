@@ -47,13 +47,14 @@ export const Banner = () => {
         >
           <motion.div className={classes.info} variants={lineUp}>
             <h1 className={classes.title}>
-              Loftory — столы и табуретки в стиле Loft
+              Alrig — техника для кухни и дома
             </h1>
           </motion.div>
 
           <motion.p className={classes.description} variants={lineUp}>
-            Прочные столы из металла и ЛДСП для дома, офиса и заведений. 
-            У всех моделей есть регулировка ножек. Рассрочка через карту Salom и доставка по Душанбе.
+            Надёжная бытовая техника для дома и кухни.
+            В нашем ассортименте — холодильники, стиральные машины, микроволновые печи и другая техника для комфортной жизни.
+            Рассрочка через карту Salom и доставка по Душанбе.
           </motion.p>
 
           <motion.div
@@ -91,8 +92,8 @@ export const Banner = () => {
         >
           <img
             className={classes.img}
-            src={"./assets/images/banner.webp"}
-            alt="Loftory — столы и табуретки в стиле Loft"
+            src={"./assets/icons/alrig_logoo.png"}
+            alt="Alrig — техника для кухни и дома"
           />
         </motion.div>
       </div>

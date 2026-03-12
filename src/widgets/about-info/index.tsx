@@ -38,8 +38,8 @@ export const AboutInfo = () => {
         <motion.div className={classes.left} variants={imageReveal}>
           <div className={classes.bl_image}>
             <img
-              src="/assets/images/banner.webp"
-              alt="Loftory — как заказать стол или табуретку в стиле Loft"
+              src="/assets/icons/alrig_logoo.png"
+              alt="Alrig — техника для кухни и дома"
             />
           </div>
         </motion.div>
@@ -57,7 +57,7 @@ export const AboutInfo = () => {
               <motion.div className={classes.item} variants={itemSoft}>
                 <div className={classes.number}>1</div>
                 <p className={classes.text_item}>
-                  <strong>Выбираете модель</strong> → стол или табуретка в стиле Loft, нужный размер и цвет.
+                  <strong>Выбираете модель</strong> → нужную бытовую технику, подходящий бренд и характеристики.
                 </p>
               </motion.div>
 
@@ -66,7 +66,7 @@ export const AboutInfo = () => {
                 <p className={classes.text_item}>
                   <strong>Оставляете заявку</strong> → мы уточним детали и подтвердим стоимость.
                   <br />
-                  <span>У всех моделей есть <strong>регулировка ножек</strong>.</span>
+                  <span>Вся техника имеет <strong>гарантию качества и официальную поддержку</strong>.</span>
                 </p>
               </motion.div>
 

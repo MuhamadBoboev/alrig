@@ -21,12 +21,12 @@ export const Footer = () => {
                 <div className={classes.footer_top}>
                     <div className={classes.bl_logo} >
                         <a href='/' >
-                            <Logo width={120} height={40} />
-                            {/* <img
-                                src='./assets/icons/barf-horizontak.svg'
+                            {/* <Logo width={120} height={40} /> */}
+                            <img
+                                src='./assets/icons/alrig_logoo.png'
                                 className={classes.logo}
-                                width={100} height={50}
-                            /> */}
+                                width={200} height={100}
+                            />
                         </a>
                         <div className={clsx(classes.socials, classes.socials_mobile)} >
                             {/* <a href='/asd' className={classes.link} target='_blank' >

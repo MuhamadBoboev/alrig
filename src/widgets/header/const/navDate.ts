@@ -3,7 +3,7 @@ import { INav } from "../model/header";
 export const navDate: INav[] = [
     {
         id: 1,
-        name: 'Столы',
+        name: 'Микроволновые печи',
         link: '/products',
     },
     {

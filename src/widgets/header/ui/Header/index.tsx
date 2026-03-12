@@ -3,7 +3,7 @@ import { navDate } from "../../const/navDate";
 import { Burger } from "../Burger";
 import { Navigation } from "../Navigation";
 import classes from './header.module.scss';
-import Logo from '@icons/logo.svg?react';
+// import Logo from '@icons/logo.svg?react';
 import { Button } from "../../../../shared/ui/Button";
 import { Link } from "react-router-dom";
 

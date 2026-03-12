@@ -8,7 +8,7 @@ export const Products = () => {
     return (
         <Wrapper className={classes.wrapper}>
             <div className={classes.header}>
-                <Title title='Столы'  />
+                <Title title='Микроволновые печи'  />
                 <a href='/custom-order'>
                     <Button
                         buttonSize='small'
