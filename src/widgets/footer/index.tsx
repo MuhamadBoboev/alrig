@@ -8,7 +8,7 @@ import clsx from 'clsx'
 // import { useQuery } from 'react-query'
 // import { IContact } from '../contacts/model/contacts'
 // import { getFetcher } from '../../shared/api/fetcher/getFetcher'
-import Logo from '@icons/logo.svg?react';
+// import Logo from '@icons/logo.svg?react';
 import InstagramSvg from '@icons/instagram.svg?react'
 import TelegramIcon from '@icons/telegram.svg?react'
 import WhatsAppIcon from '@icons/whatsapp.svg?react'
